@@ -1,0 +1,7 @@
+entorno/
+data/mariadb_docker/
+data/mysql_docker/
+.env
+*.db
+paises.db
+__pycache__
